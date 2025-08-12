@@ -20,11 +20,13 @@ Whether you’re training for a marathon, trying to lose weight, or simply aimin
 
 <table>
   <tr>
-    <td><img src="images/Main_Page.png" width="200" alt="Main Screen" /></td>
-    <td><img src="images/Login_Page.png" width="200" alt="Login Screen" /></td>
-    <td><img src="images/Register_Page.png" width="200" alt="Register Screen" /></td>
-    <td><img src="images/Activity_Page.png" width="200" alt="Activity Screen" /></td>
-    <td><img src="images/Activity_Report_Page.png" width="200" alt="Activity Report Screen" /></td>
+    <td><img src="images/Main_Page.png" width="250" alt="Main Screen" /></td>
+    <td><img src="images/Login_Page.png" width="250" alt="Login Screen" /></td>
+    <td><img src="images/Register_Page.png" width="250" alt="Register Screen" /></td>
+  </tr>
+  <tr>
+    <td><img src="images/Activity_Page.png" width="250" alt="Activity Screen" /></td>
+    <td><img src="images/Activity_Report_Page.png" width="250" alt="Activity Report Screen" /></td>
   </tr>
 </table>
 
