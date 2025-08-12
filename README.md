@@ -1,33 +1,30 @@
 # Fitness Tracker
 
+**Fitness Tracker** is a health and wellness mobile application that helps users monitor, record, and improve their physical activities. It is designed for anyone who wants to stay active, reach fitness goals, and maintain a healthy lifestyle.
+
+With **Fitness Tracker**, users can:
+
+- Create a personal account and log in securely.
+- Track workouts such as running, walking, cycling, and gym exercises.
+- Monitor daily steps, distance covered, calories burned, and active minutes.
+- Set personalized fitness goals and measure progress.
+- View detailed activity reports with charts and summaries.
+
+The app features an intuitive interface, easy navigation, and real-time progress tracking. Data is stored securely in the cloud, allowing users to access their fitness history anytime, anywhere.
+
+Whether you’re training for a marathon, trying to lose weight, or simply aiming to stay fit, **Fitness Tracker** makes it easier to stay motivated and consistent on your fitness journey.
+
 ---
 
 ## Screenshots
 
 <table>
   <tr>
-    <td><img src="assets/images/repo/Login.png" width="200" alt="Login Screen" /></td>
-    <td><img src="assets/images/repo/2.png" width="200" alt="Category Selection" /></td>
-    <td><img src="assets/images/repo/3.png" width="200" alt="Category Selection" /></td>
-    <td><img src="assets/images/repo/4.png" width="200" alt="Category Selection" /></td>
-  </tr>
-  <tr>
-    <td><img src="assets/images/repo/5.png" width="200" alt="Category Selection" /></td>
-    <td><img src="assets/images/repo/6.png" width="200" alt="Category Selection" /></td>
-    <td><img src="assets/images/repo/7.png" width="200" alt="Food Details" /></td>
-    <td><img src="assets/images/repo/8.png" width="200" alt="Profile Details" /></td>
-  </tr>
-  <tr>
-    <td><img src="assets/images/repo/9.png" width="200" alt="Orders Details" /></td>
-    <td><img src="assets/images/repo/10.png" width="200" alt="Payments Details" /></td>
-    <td><img src="assets/images/repo/11.png" width="200" alt="Addresses Details" /></td>
-    <td><img src="assets/images/repo/12.png" width="200" alt="Addresses Details" /></td>
-  </tr>
-  <tr>
-    <td><img src="assets/images/repo/13.png" width="200" alt="Naraon Rewards Details" /></td>
-    <td><img src="assets/images/repo/14.png" width="200" alt="Invite Friends Details" /></td>
-    <td><img src="assets/images/repo/15.png" width="200" alt="Help Center Details" /></td>
-    <td><img src="assets/images/repo/16.png" width="200" alt="Terms & Policy Details" /></td>
+    <td><img src="images/Main_Page.png" width="200" alt="Main Screen" /></td>
+    <td><img src="images/Login_Page.png" width="200" alt="Login Screen" /></td>
+    <td><img src="images/Register_Page.png" width="200" alt="Register Screen" /></td>
+    <td><img src="images/Activity_Page.png" width="200" alt="Activity Screen" /></td>
+    <td><img src="images/Activity_Report_Page.png" width="200" alt="Activity Report Screen" /></td>
   </tr>
 </table>
 
